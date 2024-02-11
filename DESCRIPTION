@@ -1,0 +1,10 @@
+Package: jbraseth
+Title: jbraseth
+Version: 0.0.0.9000
+Authors@R: 
+    person("Josh", "Braseth", , "jbraseth@uccs.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "0009-0004-7500-5970"))
+Description: This package provides a collection of functions for creating violin plots, scatter plots, and more.
+License: MIT + file LICENSE
+Encoding: UTF-8
+RoxygenNote: 7.3.1
