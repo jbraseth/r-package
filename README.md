@@ -1,6 +1,6 @@
 # jbraseth
 
-jbraseth is an R package for consistent plotting functions.
+jbraseth is an R package for consistently formatted plotting functions.
 
 ## Installation
 
